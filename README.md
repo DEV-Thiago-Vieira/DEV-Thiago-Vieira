@@ -10,7 +10,8 @@
 🔭 Atuando com **desenvolvimento full stack**  
 🌱 Aprendendo sobre **otimização e escalabilidade de aplicações**  
 💬 Fale comigo sobre **Vue, Angular, Java, Spring Boot, PostgreSQL**  
-📫 Contato: **contact@thiago-vieira.com**
+📫 Contato: **contact@thiago-vieira.com**  
+🌐 Portfólio: [thiago-vieira.com](https://thiago-vieira.com)
 
 ---
 
