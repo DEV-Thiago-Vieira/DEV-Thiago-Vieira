@@ -17,36 +17,44 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <!-- Front-end -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
-
-  <!-- Back-end -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" />
-
-  <!-- Outros -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></td>
+  </tr>
+</table>
 
 ---
 
 ## 🌐 Conecte-se comigo
 
-<p align="left">
-  <a href="https://linkedin.com/in/thiago-vieira-899655214/" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="mailto:contact@thiago-vieira.com">
-    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="30" width="30" />
-  </a>
-  <a href="https://github.com/DEV-Thiago-Vieira" target="_blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" height="30" width="30" style="background-color: black; border-radius: 5px;" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/thiago-vieira-899655214/" target="_blank">
+        <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30" height="30"/><br/>
+        LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:contact@thiago-vieira.com">
+        <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="30" height="30"/><br/>
+        Email
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DEV-Thiago-Vieira" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="30" height="30" style="background-color: black; border-radius: 5px;"/><br/>
+        GitHub
+      </a>
+    </td>
+  </tr>
+</table>
